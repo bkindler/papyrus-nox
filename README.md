@@ -2,7 +2,7 @@
 
 A dark-only theme for [Obsidian](https://obsidian.md) — aged paper texture, earthy tones, hinted serifs.
 
-![Dark Theme](https://img.shields.io/badge/mode-dark--only-1e1e1e?style=flat-square)
+![Papyrus Nox Screenshot](screenshot_full.png)
 
 ## Features
 
@@ -23,10 +23,6 @@ A dark-only theme for [Obsidian](https://obsidian.md) — aged paper texture, ea
 
 ### Community Themes (coming soon)
 Once approved, search for *Papyrus Nox* in Settings → Appearance → Manage.
-
-## Screenshot
-
-*Screenshot coming soon.*
 
 ## Author
 
